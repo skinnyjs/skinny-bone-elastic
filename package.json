@@ -1,15 +1,15 @@
 {
-    "name":            "skinny-bone-elastic",
-    "version":         "0.1.0",
-    "description":     "ElaticSearch client for skinny actions bone",
-    "author":          {
-        "name": "Geometria Lab"
-    },
-    "main":            "./bone.js",
-    "dependencies":    {
-        "elasticsearch": "~4.0.0"
-    },
-    "engines":         [
-        "node >=0.11"
-    ]
+  "name": "skinny-bone-elastic",
+  "version": "0.2.0",
+  "description": "ElaticSearch client for skinny actions bone",
+  "author": {
+    "name": "Geometria Lab"
+  },
+  "main": "./bone.js",
+  "dependencies": {
+    "elasticsearch": "~4.0.0"
+  },
+  "engines": [
+    "iojs >= 2.0"
+  ]
 }
